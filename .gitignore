@@ -1,0 +1,14 @@
+# Archivo para ignorar ficheros sensibles o innecesarios en Git
+
+# Fichero de variables de entorno
+config.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
